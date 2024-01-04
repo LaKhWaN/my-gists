@@ -1,37 +1,21 @@
 <div align="center">
 
-# ✨ My-Gists ✨
+  # 🖊️ My-Gists 🖊️
 
-📁 **Collection of all my frequently used code snippets** 🧑‍💻
-
-## Code Snippets
-
-### 1. Python MySQL Connection
-Establish Connection between Python and your MySQL instance.
-
-### 2. Python MongoDB Connection
-Establish Connection between Python and your MongoDB instance.
-
-### 3. Node.js MySQL Connection
-Establish Connection between Node.js and your MySQL instance.
-
-### 4. Node.js MongoDB Connection
-Establish Connection between Node.js and your MongoDB instance.
-
-## Additional Modules
-
-### 5. MongoDB Connection
-Extend your MongoDB connection with this module.
-
-### 6. MongoDB Node.js Operations Module
-Perform various MongoDB operations using this Node.js module.
-
-## How to Use
-
-1. Clone the repository.
-2. Navigate to the specific code snippet folder.
-3. Copy and integrate the desired code into your project.
-
-Feel free to contribute, suggest improvements, or add your own snippets. Happy coding! 🚀
-
+## 🧑‍💻 Collection of all my frequently used code snippets 🧑‍💻
 </div>
+---
+
+### ➡️ [MongoDB Connection NodeJS](https://gist.github.com/LaKhWaN/985061fa20228126fe95d706c61b3bfe)
+  - Establish a connection between NodeJS and MongoDB.
+
+---
+
+### ➡️ [MongoDB NodeJS Operations Module](https://gist.github.com/LaKhWaN/064df2439fff9b0970006cad82426e5c)
+  - Connect Node.js seamlessly to your MongoDB database.
+
+---
+
+Feel free to use these code snippets in your projects! If you have any questions or suggestions, please open an [issue](https://github.com/LaKhWaN/My-Gists/issues).
+
+**Happy coding! 🚀**
