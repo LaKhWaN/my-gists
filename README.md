@@ -1,3 +1,5 @@
+<div align="center">
+
 # ✨ My-Gists ✨
 
 📁 **Collection of all my frequently used code snippets** 🧑‍💻
@@ -31,3 +33,5 @@ Perform various MongoDB operations using this Node.js module.
 3. Copy and integrate the desired code into your project.
 
 Feel free to contribute, suggest improvements, or add your own snippets. Happy coding! 🚀
+
+</div>
